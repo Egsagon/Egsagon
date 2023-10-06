@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Egsagon, a 18yo that likes web-scraping, reverse-engineering and animes.
+I'm Egsagon, a 18yo student that likes web-scraping, reverse-engineering and animes.
 
 ### The tools i use
 <div>
