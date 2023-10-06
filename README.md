@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Still don't know what to write here.
+I'm Egsagon, a 18yo that likes web-scraping and reverse-engineering.
 
 ### The languages and tools i use
 <div>
