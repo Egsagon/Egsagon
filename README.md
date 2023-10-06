@@ -22,5 +22,18 @@ I'm Egsagon, a 18yo student that likes web-scraping, reverse-engineering and ani
 
 ### Epic stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Egsagon&layout=compact&hide_border=true&langs_count=6&hide=LLVM,Makefile,GLSL)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark"
+          media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true"/>
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Egsagon&layout=compact&hide_border=true&langs_count=6&hide=LLVM,Makefile,GLS&theme=dark"
+          media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Egsagon&layout=compact&hide_border=true&langs_count=6&hide=LLVM,Makefile,GLS"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egsagon&layout=compact&hide_border=true&langs_count=6&hide=LLVM,Makefile,GLS"/>
+</picture>
