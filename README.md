@@ -23,9 +23,10 @@ I'm Egsagon, a 18yo student that likes web-scraping, reverse-engineering and ani
 ### Epic stats
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark"
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&include_all_commits=true&rank_icon=github&theme=dark"
           media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true"
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Egsagon&include_all_commits=true&rank_icon=github"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Egsagon&hide_title=true&include_all_commits=true&rank_icon=github&hide_border=true"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Egsagon&include_all_commits=true&rank_icon=github"/>
 </picture>
