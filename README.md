@@ -20,6 +20,11 @@ I'm Egsagon, a 18yo student that likes web-scraping, reverse-engineering and ani
   <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
 </div>
 
+### Contact me
+
+* Discord: Egsagon
+* Email: egsagon.git@gmail.com
+
 ### Epic stats
 
 <picture>
